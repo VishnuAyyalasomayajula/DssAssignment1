@@ -1,0 +1,3 @@
+org\example\InvertedIndexService.class
+org\example\InvertedIndexServiceImpl.class
+org\example\InvertedIndexServiceImpl$ProcessLineTask.class

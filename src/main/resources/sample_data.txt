@@ -1,0 +1,7 @@
+Java is good
+good boy always good
+java is best for RMI
+RMI is always useful
+RMI means remote method invocation
+RMI uses concurrency mechanism
+
