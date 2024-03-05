@@ -28,5 +28,5 @@ The starter of the rmi server is `org.example.InvertedIndexServiceImpl` with mav
 
 #### Invoke Remote Interface
 
-Run test case `org.example.FindClient`.
+Run test case `org.example.InvertedIndexClientTest`.
 
