@@ -6,7 +6,7 @@ Run with maven:
 mvn clean install exec:exec
 ```
 
-The starter of the rmi server is `org.example.FindImpl` with maven plugin:
+The starter of the rmi server is `org.example.InvertedIndexServiceImpl` with maven plugin:
 ``` xml
 <plugin>
     <groupId>org.codehaus.mojo</groupId>
@@ -19,7 +19,7 @@ The starter of the rmi server is `org.example.FindImpl` with maven plugin:
             <classpath />
             <!--<argument>-Djava.security.policy=${project.build.outputDirectory}/rmi.policy</argument>-->
             <!-- point to the starter -->
-            <argument>org.example.FindImpl</argument>
+            <argument>org.example.InvertedIndexServiceImpl</argument>
         </arguments>
     </configuration>
 </plugin>
