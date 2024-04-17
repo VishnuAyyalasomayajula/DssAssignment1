@@ -1,4 +1,4 @@
-### Intro
+RMI Implementation
 
 #### Start Server
 Run with maven:
